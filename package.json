@@ -1,6 +1,6 @@
 {
   "name": "sql-template-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is an SQL template processor",
   "main": "dist/sql-template-handler.js",
   "scripts": {
