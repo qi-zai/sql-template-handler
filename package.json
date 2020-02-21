@@ -1,0 +1,20 @@
+{
+  "name": "sql-template-handler",
+  "version": "0.0.1",
+  "description": "This is an SQL template processor",
+  "main": "dist/sql-template-handler.js",
+  "scripts": {
+    "test": "node ./example/index.js"
+  },
+  "keywords": [
+    "sql",
+    "template",
+    "handler"
+  ],
+  "author": "qizaicc<15248448516@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.7.4",
+    "typescript": "^3.8.2"
+  }
+}
