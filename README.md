@@ -5,10 +5,10 @@
 ```
 example
   |__test.sql
-  |__test.js
+  |__index.js
 ```
 
-## test.js
+## index.js
 
 ```js
 const sql_template_handler = require('sql-template-handler')

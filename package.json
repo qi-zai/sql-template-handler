@@ -12,6 +12,10 @@
     "handler"
   ],
   "author": "qizaicc<15248448516@163.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qi-zai/sql-template-handler.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^13.7.4",
